@@ -1,5 +1,7 @@
 # 基于HUGO的博客平台搭建
 
+[doc](https://gohugo.io/getting-started/quick-start/)
+
 ## 下载HUGO
  [点击下载HUGO](https://github.com/gohugoio/hugo/releases)
 将HUGO 添加到path,并 ``` hugo version  ``` 测试hugo是否安装好.
