@@ -23,7 +23,7 @@
 
 ##  进入config.toml
 ``` 
-baseURL = "http://example.org/"  
+baseURL = "http://jumpawaltz.github./"  
 languageCode = "zh-Hans" 
 title = "Jumpawaltz"
 theme = "ananke"  

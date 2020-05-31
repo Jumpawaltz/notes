@@ -8,6 +8,8 @@
 ## 就可上传和下载了
 ```
 git remote add origin git@xxxx
+
+*** 注意如果使用了HTTPS 可以使用 set-url 来改变
 git push -u origin master
 ```
 ## 如何上传其他分支
